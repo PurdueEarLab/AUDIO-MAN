@@ -1,4 +1,4 @@
-# AUDIO-MAN
+# AUDIO-MAN (Audiology Demonstration and Instructional Open-source MANikin)
 3D print files of human head and cast for silicone ears
 
 Acknowledgments
