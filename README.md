@@ -1,6 +1,8 @@
 # AUDIO-MAN (Audiology Demonstration and Instructional Open-source MANikin)
 3D print files of human head and cast for silicone ears
 
+Contact: Joshua Alexander (Purdue University)
+
 Acknowledgments
 
 This project is possible because of the generosity, creativity, and expertise of several contributors who shared their work or granted permission for modification and redistribution.
