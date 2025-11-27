@@ -1,5 +1,5 @@
 # AUDIO-MAN (Audiology Demonstration and Instructional Open-source MANikin)
-3D print files of human head and cast for silicone ears
+*** 3D print files for the human head and a cast for silicone ears are available under "Releases" due to the large size of the Zip files.  ***
 
 Contact: Joshua Alexander (Purdue University)
 
