@@ -19,3 +19,5 @@ Gratefully acknowledged for their permission to use, modify, and redistribute th
 All derivative works remain licensed under CC BY-NC-SA 4.0, ensuring open access, proper attribution, and non-commercial use throughout the project.
 
 Full attribution is provided in accordance with their permissions, and all derivative models link back to the original creators where possible. Their contributions have enabled the development of a freely accessible educational tool for the audiology community.
+
+Not interested in printing yourself?  If you would like to purchase a completed AUDIO-MAN product, please see: https://futureparts3d.com/products/audioman
